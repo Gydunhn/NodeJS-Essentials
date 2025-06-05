@@ -1,0 +1,62 @@
+{
+  "name": "nodejs-essentials",
+  "displayName": "NodeJS-Essentials",
+  "description": "NodeJS essential extensions for visual studio code",
+  "icon": "img/essentials.png",
+  "galleryBanner": {
+    "color": "#53595e",
+    "theme": "dark"
+  },
+  "license": "LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gydunhn/NodeJS-Essentials.git"
+  },
+  "keywords": [
+    "VSC",
+    "VSCode",
+    "Visual Studio",
+    "Visual Studio Code",
+    "VSC Essentials",
+    "Essentials",
+    "Esenciales",
+    "Essenciais",
+    "Essentiel",
+    "Essenziali",
+    "Essentielles",
+    "Esencajoj",
+    "必需品",
+    "골자",
+    "अत्यावश्यकम्",
+    "ملزومات",
+    "Javascript",
+    "Lint",
+    "Snippets",
+    "Node",
+    "NodeJS",
+    "TypeScript",
+    "npm",
+    "debugging",
+    "Environment",
+    "dotenv",
+    "Debugger",
+    "Gydunhn"
+  ],
+  "version": "1.0.0",
+  "publisher": "Gydunhn",
+  "engines": {
+    "vscode": "^1.35.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Gydunhn.vsc-essentials",
+    "Gydunhn.typescript-essentials",
+    "ms-vscode.js-debug",
+    "mikestead.dotenv",
+    "wix.vscode-import-cost",
+    "rangav.vscode-thunder-client",
+    "piyushvscode.nodejs-snippets"
+  ]
+}
